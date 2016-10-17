@@ -1,0 +1,23 @@
+{
+  "name": "wj-js-tdd",
+  "version": "1.0.0",
+  "description": "wj-js-tdd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flaviodut/wj-js-tdd.git"
+  },
+  "keywords": [
+    "js",
+    "tdd"
+  ],
+  "author": "Flávio Dutra <flavio.adore@gmail.com> (http://flaviodutra.com.br/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flaviodut/wj-js-tdd/issues"
+  },
+  "homepage": "https://github.com/flaviodut/wj-js-tdd#readme"
+}
