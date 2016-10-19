@@ -19,5 +19,12 @@
   "bugs": {
     "url": "https://github.com/flaviodut/wj-js-tdd/issues"
   },
-  "homepage": "https://github.com/flaviodut/wj-js-tdd#readme"
+  "homepage": "https://github.com/flaviodut/wj-js-tdd#readme",
+  "devDependencies": {
+    "eslint": "^3.8.1",
+    "eslint-config-airbnb": "^12.0.0",
+    "eslint-plugin-import": "^2.0.1",
+    "eslint-plugin-jsx-a11y": "^2.2.3",
+    "eslint-plugin-react": "^6.4.1"
+  }
 }
